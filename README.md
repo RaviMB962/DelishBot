@@ -1,5 +1,6 @@
 # DelishBot
-![Main](https://github.com/RaviMB962/DelishBot/assets/95517431/1e77ef35-49c5-47c2-b463-baee3d32fa28)
+![Main](https://github.com/RaviMB962/DelishBot/assets/95517431/4db00e2b-5ed5-4094-9996-53f11eee1f3f)
+
 
 We created a DelishBot to order food in Bengaluru Foods Restaurant
 # Used Tools
